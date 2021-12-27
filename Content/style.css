@@ -1,27 +1,20 @@
-.nav {
-  background-color: #333;
-  overflow: hidden;
-}
-
-.nav a {
-  float: left;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
-}
-
-.nav a:hover {
-  background-color: #ddd;
-  color: black;
-}
-
-.nav a.active {
-  background-color: #4CAF50;
-  color: white;
-}
-
 img {
-	float: left;
+  height: auto;
+  width: 400px;
+  float: left;
+  margin-right: 20px;
+}
+
+.centre {
+  text-align: center;
+}
+
+.left-content {
+  float: left;
+  margin-right: 40px;
+  padding-bottom: 1em;
+}
+
+.right {
+  padding-bottom: 11em;
 }
